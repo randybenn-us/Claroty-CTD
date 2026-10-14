@@ -1,0 +1,256 @@
+Program,Version,Queried_CPE,Confidence,CVE,CVSS_Version,Base_Score,Base_Severity,CISA_KEV
+7-Zip 25.00 (x64),25.00,cpe:2.3:a:7-zip:7-zip:25.00:*:*:*:*:*:*:*,F,CVE-2025-55188,3.1,3.6,LOW,N/A
+7-Zip 25.00 (x64),25.00,cpe:2.3:a:7-zip:7-zip:25.00:*:*:*:*:*:*:*,F,CVE-2026-48092,3.1,8.1,HIGH,N/A
+7-Zip 25.00 (x64),25.00,cpe:2.3:a:7-zip:7-zip:25.00:*:*:*:*:*:*:*,F,CVE-2026-48095,3.1,8.8,HIGH,N/A
+7-Zip 25.00 (x64),25.00,cpe:2.3:a:7-zip:7-zip:25.00:*:*:*:*:*:*:*,F,CVE-2026-48101,3.1,6.5,MEDIUM,N/A
+7-Zip 25.00 (x64),25.00,cpe:2.3:a:7-zip:7-zip:25.00:*:*:*:*:*:*:*,F,CVE-2026-48102,3.1,4.3,MEDIUM,N/A
+7-Zip 25.00 (x64),25.00,cpe:2.3:a:7-zip:7-zip:25.00:*:*:*:*:*:*:*,F,CVE-2026-48103,3.1,7.1,HIGH,N/A
+7-Zip 25.00 (x64),25.00,cpe:2.3:a:7-zip:7-zip:25.00:*:*:*:*:*:*:*,F,CVE-2026-48104,3.1,4.2,MEDIUM,N/A
+7-Zip 25.00 (x64),25.00,cpe:2.3:a:7-zip:7-zip:25.00:*:*:*:*:*:*:*,F,CVE-2026-48111,3.1,7.1,HIGH,N/A
+7-Zip 25.00 (x64),25.00,cpe:2.3:a:7-zip:7-zip:25.00:*:*:*:*:*:*:*,F,CVE-2026-48112,3.1,6.5,MEDIUM,N/A
+Adobe Acrobat (64-bit),26.001.21563,cpe:2.3:a:adobe:acrobat:26.001.21563:*:*:*:*:*:*:*,F,CVE-2026-47911,3.1,7.8,HIGH,N/A
+Adobe Acrobat (64-bit),26.001.21563,cpe:2.3:a:adobe:acrobat:26.001.21563:*:*:*:*:*:*:*,F,CVE-2026-47912,3.1,7.8,HIGH,N/A
+Adobe Acrobat (64-bit),26.001.21563,cpe:2.3:a:adobe:acrobat:26.001.21563:*:*:*:*:*:*:*,F,CVE-2026-47913,3.1,7.8,HIGH,N/A
+Adobe Acrobat (64-bit),26.001.21563,cpe:2.3:a:adobe:acrobat:26.001.21563:*:*:*:*:*:*:*,F,CVE-2026-47914,3.1,7.8,HIGH,N/A
+Adobe Acrobat (64-bit),26.001.21563,cpe:2.3:a:adobe:acrobat:26.001.21563:*:*:*:*:*:*:*,F,CVE-2026-47959,3.1,7.8,HIGH,N/A
+Adobe Acrobat (64-bit),26.001.21563,cpe:2.3:a:adobe:acrobat:26.001.21563:*:*:*:*:*:*:*,F,CVE-2026-47961,3.1,5.5,MEDIUM,N/A
+AMD Software,23.19.23.03,cpe:2.3:a:amd:radeon_software:23.19.23.03:*:*:*:*:*:*:*,O,CVE-2024-21937,3.1,7.8,HIGH,N/A
+AXIS Device Manager 5.30,5.30.125,cpe:2.3:a:axis:device_manager:5.30.125:*:*:*:*:*:*:*,F,CVE-2025-30023,3.1,9.0,CRITICAL,N/A
+AXIS Device Manager 5.30,5.30.125,cpe:2.3:a:axis:device_manager:5.30.125:*:*:*:*:*:*:*,F,CVE-2025-30024,3.1,6.8,MEDIUM,N/A
+AXIS Device Manager 5.30,5.30.125,cpe:2.3:a:axis:device_manager:5.30.125:*:*:*:*:*:*:*,F,CVE-2025-30025,3.1,7.8,HIGH,N/A
+Cisco Webex Meetings,44.7.0,cpe:2.3:a:cisco:webex_meetings:44.7.0:*:*:*:*:*:*:*,O,CVE-2018-0264,3.0,9.6,CRITICAL,N/A
+Cisco Webex Meetings,44.7.0,cpe:2.3:a:cisco:webex_meetings:44.7.0:*:*:*:*:*:*:*,O,CVE-2026-20233,3.1,6.1,MEDIUM,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2025-59802,3.1,7.5,HIGH,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2025-59803,3.1,5.3,MEDIUM,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2025-13941,3.1,8.8,HIGH,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2025-66493,3.1,7.8,HIGH,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2025-66494,3.1,7.8,HIGH,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2025-66495,3.1,7.8,HIGH,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2025-66496,3.1,7.8,HIGH,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2025-66497,3.1,7.8,HIGH,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2025-66498,3.1,7.8,HIGH,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2025-66499,3.1,7.8,HIGH,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2026-3774,3.1,7.5,HIGH,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2026-3775,3.1,7.8,HIGH,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2026-3776,3.1,5.5,MEDIUM,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2026-3777,3.1,7.8,HIGH,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2026-3778,3.1,5.5,MEDIUM,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2026-3779,3.1,7.8,HIGH,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2026-3780,3.1,7.8,HIGH,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2026-5937,3.1,5.5,MEDIUM,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2026-5938,3.1,5.5,MEDIUM,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2026-5939,3.1,5.5,MEDIUM,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2026-5940,3.1,5.5,MEDIUM,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2026-5941,3.1,7.1,HIGH,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2026-5942,3.1,5.5,MEDIUM,N/A
+Foxit PDF Reader,2025.2.0.33046,cpe:2.3:a:foxit:pdf_reader:2025.2.0.33046:*:*:*:*:*:*:*,F,CVE-2026-5943,3.1,7.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9110,3.1,4.2,MEDIUM,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9111,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9112,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9113,3.1,4.3,MEDIUM,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9114,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9115,3.1,4.3,MEDIUM,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9116,3.1,4.3,MEDIUM,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9118,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9119,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9120,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9121,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9124,3.1,5.3,MEDIUM,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9126,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-10000,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-10001,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-10002,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-10003,3.1,7.5,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-10004,3.1,6.5,MEDIUM,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-10006,3.1,7.5,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-10007,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-10009,3.1,7.5,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-10011,3.1,3.1,LOW,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-10012,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-10013,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-10015,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-10016,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-10017,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-10018,3.1,6.5,MEDIUM,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-10019,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-10021,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-10022,3.1,7.5,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9873,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9874,3.1,9.6,CRITICAL,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9877,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9878,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9879,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9880,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9882,3.1,6.5,MEDIUM,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9883,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9887,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9890,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9891,3.1,9.0,CRITICAL,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9893,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9894,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9895,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9896,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9897,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9899,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9900,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9901,3.1,7.5,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9902,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9903,3.1,5.0,MEDIUM,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9904,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9905,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9906,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9907,3.1,4.3,MEDIUM,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9908,3.1,6.5,MEDIUM,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9909,3.1,7.5,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9910,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9911,3.1,4.3,MEDIUM,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9913,3.1,4.3,MEDIUM,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9914,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9915,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9916,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9918,3.1,9.6,CRITICAL,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9923,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9924,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9925,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9926,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9927,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9928,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9931,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9932,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9933,3.1,7.5,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9934,3.1,7.5,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9935,3.1,4.3,MEDIUM,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9937,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9938,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9939,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9940,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9941,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9942,3.1,5.0,MEDIUM,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9944,3.1,3.1,LOW,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9945,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9946,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9947,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9949,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9951,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9952,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9953,3.1,6.5,MEDIUM,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9954,3.1,7.5,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9957,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9958,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9959,3.1,3.1,LOW,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9960,3.1,7.5,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9961,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9962,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9965,3.1,8.8,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9966,3.1,8.3,HIGH,N/A
+Google Chrome,148.0.7778.168,cpe:2.3:a:google:chrome:148.0.7778.168:*:*:*:*:*:*:*,O,CVE-2026-9967,3.1,9.6,CRITICAL,N/A
+Microsoft 365 Apps for enterprise - en-us,16.0.19929.20172,cpe:2.3:a:microsoft:365_apps:16.0.19929.20172:*:*:*:*:*:*:*,O,CVE-2024-21402,3.1,7.1,HIGH,N/A
+Microsoft Teams Meeting Add-in for Microsoft Office,1.26.08901,cpe:2.3:a:microsoft:teams:1.26.08901:*:*:*:*:*:*:*,O,CVE-2020-10146,3.1,5.4,MEDIUM,N/A
+Microsoft Teams Meeting Add-in for Microsoft Office,1.26.08901,cpe:2.3:a:microsoft:teams:1.26.08901:*:*:*:*:*:*:*,O,CVE-2023-24881,3.1,6.5,MEDIUM,N/A
+Microsoft Teams Meeting Add-in for Microsoft Office,1.26.08901,cpe:2.3:a:microsoft:teams:1.26.08901:*:*:*:*:*:*:*,O,CVE-2023-29328,3.1,8.8,HIGH,N/A
+Microsoft Teams Meeting Add-in for Microsoft Office,1.26.08901,cpe:2.3:a:microsoft:teams:1.26.08901:*:*:*:*:*:*:*,O,CVE-2023-29330,3.1,8.8,HIGH,N/A
+Microsoft Teams Meeting Add-in for Microsoft Office,1.26.08901,cpe:2.3:a:microsoft:teams:1.26.08901:*:*:*:*:*:*:*,O,CVE-2025-49731,3.1,3.1,LOW,N/A
+Microsoft Teams Meeting Add-in for Microsoft Office,1.26.08901,cpe:2.3:a:microsoft:teams:1.26.08901:*:*:*:*:*:*:*,O,CVE-2025-53783,3.1,7.5,HIGH,N/A
+Microsoft Visual Studio Code (User),1.119.1,cpe:2.3:a:microsoft:visual_studio_code:1.119.1:*:*:*:*:*:*:*,F,CVE-2026-40376,3.1,8.1,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8945,3.1,7.5,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8946,3.1,7.5,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8947,3.1,7.3,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8948,3.1,9.1,CRITICAL,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8949,3.1,7.5,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8950,3.1,9.3,CRITICAL,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8951,3.1,6.5,MEDIUM,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8952,3.1,8.8,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8953,3.1,9.6,CRITICAL,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8954,3.1,7.5,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8955,3.1,8.8,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8956,3.1,9.8,CRITICAL,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8957,3.1,8.8,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8958,3.1,8.6,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8959,3.1,9.6,CRITICAL,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8960,3.1,7.5,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8961,3.1,6.5,MEDIUM,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8962,3.1,8.1,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8963,3.1,7.5,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8964,3.1,7.5,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8965,3.1,7.5,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8966,3.1,7.5,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8967,3.1,7.5,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8968,3.1,7.5,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8969,3.1,8.1,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8970,3.1,8.8,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8971,3.1,6.5,MEDIUM,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8972,3.1,8.8,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8973,3.1,8.8,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8974,3.1,8.8,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-8975,3.1,8.8,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-10701,3.1,7.5,HIGH,N/A
+Mozilla Firefox (x64 en-US),150.0.3,cpe:2.3:a:mozilla:firefox:150.0.3:*:*:*:*:*:*:*,O,CVE-2026-10702,3.1,4.3,MEDIUM,N/A
+PyCharm 2025.1.1,251.25410.122,cpe:2.3:a:jetbrains:pycharm:251.25410.122:*:*:*:*:*:*:*,P,CVE-2019-14958,3.1,7.5,HIGH,N/A
+PyCharm 2025.1.1,251.25410.122,cpe:2.3:a:jetbrains:pycharm:251.25410.122:*:*:*:*:*:*:*,P,CVE-2021-30005,3.1,7.8,HIGH,N/A
+PyCharm 2025.1.1,251.25410.122,cpe:2.3:a:jetbrains:pycharm:251.25410.122:*:*:*:*:*:*:*,P,CVE-2022-29820,3.1,3.5,LOW,N/A
+PyCharm 2025.1.1,251.25410.122,cpe:2.3:a:jetbrains:pycharm:251.25410.122:*:*:*:*:*:*:*,P,CVE-2022-29821,3.1,7.7,HIGH,N/A
+PyCharm 2025.1.1,251.25410.122,cpe:2.3:a:jetbrains:pycharm:251.25410.122:*:*:*:*:*:*:*,P,CVE-2024-37051,3.1,7.5,HIGH,N/A
+PyCharm 2025.1.1,251.25410.122,cpe:2.3:a:jetbrains:pycharm:251.25410.122:*:*:*:*:*:*:*,P,CVE-2026-25847,3.1,6.1,MEDIUM,N/A
+PyCharm 2025.1.1,251.25410.122,cpe:2.3:a:jetbrains:pycharm:251.25410.122:*:*:*:*:*:*:*,P,CVE-2026-49384,3.1,6.1,MEDIUM,N/A
+Python 3.12.6 (64-bit),3.12.6150.0,cpe:2.3:a:python:python:3.12.6150.0:*:*:*:*:*:*:*,F,CVE-2025-13837,3.1,5.5,MEDIUM,N/A
+Python 3.12.6 (64-bit),3.12.6150.0,cpe:2.3:a:python:python:3.12.6150.0:*:*:*:*:*:*:*,F,CVE-2025-12084,3.1,5.3,MEDIUM,N/A
+Python 3.12.6 (64-bit),3.12.6150.0,cpe:2.3:a:python:python:3.12.6150.0:*:*:*:*:*:*:*,F,CVE-2025-12781,3.1,5.3,MEDIUM,N/A
+Python 3.12.6 (64-bit),3.12.6150.0,cpe:2.3:a:python:python:3.12.6150.0:*:*:*:*:*:*:*,F,CVE-2025-13462,3.1,3.3,LOW,N/A
+Python 3.12.6 (64-bit),3.12.6150.0,cpe:2.3:a:python:python:3.12.6150.0:*:*:*:*:*:*:*,F,CVE-2026-3644,3.1,7.5,HIGH,N/A
+Python 3.12.6 (64-bit),3.12.6150.0,cpe:2.3:a:python:python:3.12.6150.0:*:*:*:*:*:*:*,F,CVE-2026-4519,3.1,3.3,LOW,N/A
+Python 3.12.6 (64-bit),3.12.6150.0,cpe:2.3:a:python:python:3.12.6150.0:*:*:*:*:*:*:*,F,CVE-2026-6019,3.1,6.1,MEDIUM,N/A
+Python 3.12.6 (64-bit),3.12.6150.0,cpe:2.3:a:python:python:3.12.6150.0:*:*:*:*:*:*:*,F,CVE-2026-3087,3.1,7.5,HIGH,N/A
+Python 3.12.6 (64-bit),3.12.6150.0,cpe:2.3:a:python:python:3.12.6150.0:*:*:*:*:*:*:*,F,CVE-2026-7210,3.1,9.8,CRITICAL,N/A
+Python 3.13.3 (64-bit),3.13.3150.0,cpe:2.3:a:python:python:3.13.3150.0:*:*:*:*:*:*:*,F,CVE-2026-6019,3.1,6.1,MEDIUM,N/A
+Python 3.13.3 (64-bit),3.13.3150.0,cpe:2.3:a:python:python:3.13.3150.0:*:*:*:*:*:*:*,F,CVE-2026-3087,3.1,7.5,HIGH,N/A
+Python 3.13.3 (64-bit),3.13.3150.0,cpe:2.3:a:python:python:3.13.3150.0:*:*:*:*:*:*:*,F,CVE-2026-7210,3.1,9.8,CRITICAL,N/A
+Windows Subsystem for Linux,2.3.26.0,cpe:2.3:a:microsoft:windows_subsystem_for_linux:2.3.26.0:*:*:*:*:*:*:*,P,CVE-2025-53788,3.1,7.0,HIGH,N/A
+Windows Subsystem for Linux,2.3.26.0,cpe:2.3:a:microsoft:windows_subsystem_for_linux:2.3.26.0:*:*:*:*:*:*:*,P,CVE-2025-62220,3.1,8.8,HIGH,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2025-9817,3.1,7.5,HIGH,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2025-11626,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2025-13499,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2025-13946,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-0959,3.1,6.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-0960,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-0961,3.1,6.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-0962,3.1,6.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-3201,3.1,7.5,HIGH,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-3203,3.1,7.5,HIGH,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-6868,3.1,7.5,HIGH,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-7375,3.1,7.5,HIGH,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-7376,3.1,7.5,HIGH,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-7378,3.1,7.5,HIGH,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-7379,3.1,7.5,HIGH,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-5299,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-5401,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-5406,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-5407,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-5408,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-5409,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-5653,3.1,7.5,HIGH,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-5654,3.1,7.5,HIGH,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-5657,3.1,7.5,HIGH,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-6519,3.1,7.5,HIGH,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-6520,3.1,7.5,HIGH,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-6521,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-6522,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-6523,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-6524,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-6527,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-6529,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-6530,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-6531,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-6532,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-6533,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-6534,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-6535,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-6537,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-6538,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-6867,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-6869,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-6870,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-5403,3.1,7.8,HIGH,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-5404,3.1,5.5,MEDIUM,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-5405,3.1,7.8,HIGH,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-5656,3.1,7.8,HIGH,N/A
+Wireshark 4.4.8 x64,4.4.8,cpe:2.3:a:wireshark:wireshark:4.4.8:*:*:*:*:*:*:*,F,CVE-2026-9759,3.1,5.5,MEDIUM,N/A

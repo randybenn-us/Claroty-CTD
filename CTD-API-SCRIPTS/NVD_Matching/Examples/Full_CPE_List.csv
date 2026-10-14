@@ -1,0 +1,212 @@
+program,vendor,version,cleaned name,cpe_name
+7-Zip 25.00 (x64),Igor Pavlov,25.00,7-Zip,cpe:2.3:a:7-zip:7-zip:*:*:*:*:*:*:*:*
+Adobe Acrobat (64-bit),Adobe,26.001.21563,Adobe Acrobat,cpe:2.3:a:adobe:acrobat:*:*:*:*:*:*:*:*
+Adobe Refresh Manager,Adobe,1.8.0,Adobe Refresh Manager,NOT_FOUND
+AMD Software,Advanced Micro Devices,23.19.23.03,AMD Software,cpe:2.3:a:amd:vbios_flash_tool_software_development_kit:*:*:*:*:*:*:*:*
+Application Verifier x64 External Package,Microsoft,10.1.19041.685,Application Verifier External Package,NOT_FOUND
+ARC125 for Uniden (U)BC125XLT,BuTel Software,0.08.0038,ARC125 Uniden (U)BC125XLT,NOT_FOUND
+AXIS Device Manager 5.30,Axis Communications AB,5.30.125,AXIS Device Manager,cpe:2.3:a:axis:device_manager:*:*:*:*:*:*:*:*
+BC75XLT_SS,Uniden,1.1.0,BC75XLT_SS,NOT_FOUND
+BCDx36HP Sentinel,Uniden,2.05.03,BCDx36HP Sentinel,NOT_FOUND
+Bonjour Browser,,,Bonjour Browser,NOT_FOUND
+Brave,Brave Software,148.1.90.122,Brave,cpe:2.3:a:brave:brave:*:*:*:*:*:*:*:*
+Camera Configuration Tool,Motorola,2.14.0.0,Camera Configuration Tool,NOT_FOUND
+Cisco Packet Tracer 8.2.2 64Bit,Cisco,8.2.2.400,Cisco Packet Tracer,cpe:2.3:a:cisco:packet_tracer:*:*:*:*:*:*:*:*
+Cisco Webex Meetings,Cisco,44.7.0,Cisco Webex Meetings,cpe:2.3:a:cisco:webex_meetings:*:*:*:*:*:*:*:*
+Copilot,Microsoft,148.0.3967.54,Copilot,cpe:2.3:a:microsoft:365_copilot:*:*:*:*:*:*:*:*
+DirectSOFT 6 - Programming,Host Engineering,6.00.700,DirectSOFT 6,NOT_FOUND
+Do-more Designer 2.11,Host Engineering,2.11.002,Do-more Designer,NOT_FOUND
+Epson Connect Printer Setup,Seiko Epson,1.4.11,Epson Connect Printer Setup,NOT_FOUND
+EPSON ET-2800 Series Printer Uninstall,Seiko Epson,,EPSON ET-2800 Series Printer Uninstall,NOT_FOUND
+Epson ET-2800 Series User’s Guide,Epson America,1.0,Epson ET-2800 Series ’s Guide,NOT_FOUND
+Epson Event Manager,Seiko Epson,3.11.82,Epson Event Manager,cpe:2.3:a:epson:event_manager:*:*:*:*:*:*:*:*
+EpsonNet Print,Seiko Epson,3.3.1.0,EpsonNet Print,NOT_FOUND
+Epson Photo+,Seiko Epson,4.0.2.0,Epson Photo+,NOT_FOUND
+Epson Printer Connection Checker,Seiko Epson,3.4.3.0,Epson Printer Connection Checker,NOT_FOUND
+Epson Printer Driver Security Support Tool,Seiko Epson,1.0.1.0,Epson Printer Driver Security Support Tool,NOT_FOUND
+Epson Scan 2,Seiko Epson,,Epson Scan 2,NOT_FOUND
+EPSON Scan OCR Component,Seiko Epson,3.00.06,EPSON Scan OCR Component,NOT_FOUND
+EPSON Scan PDF Extensions,Seiko Epson,1.03.02.02,EPSON Scan PDF Extensions,cpe:2.3:a:epson:scan_pdf_extensions:*:*:*:*:*:*:*:*
+Epson ScanSmart,Seiko Epson,3.7.17,Epson ScanSmart,NOT_FOUND
+Epson Software Updater,Seiko Epson,5.0.2,Epson Software Updater,NOT_FOUND
+Evernote 10.95.4 (All Users),Evernote,10.95.4,Evernote,cpe:2.3:a:evernote:evernote:*:*:*:*:*:*:*:*
+Evernote 11.16.3,Bending Spoons US,11.16.3,Evernote,cpe:2.3:a:evernote:evernote:*:*:*:*:*:*:*:*
+Factory I/O,Real Games,2.5.8,Factory I/O,NOT_FOUND
+FastStone Image Viewer 8.1,FastStone,8.1,FastStone Image Viewer,cpe:2.3:a:faststone:faststone_image_viewer:*:*:*:*:*:*:*:*
+Foxit PDF Reader,Foxit Software,2025.2.0.33046,Foxit PDF Reader,cpe:2.3:a:foxit:pdf_reader:*:*:*:*:*:*:*:*
+Google Chrome,Google,148.0.7778.168,Google Chrome,cpe:2.3:a:google:chrome:*:*:*:*:*:*:*:*
+G_Series_PPS_V00-03-16-29F,Unication,0.3.16.29,G_Series_PPS_V00-03-16-29F,NOT_FOUND
+HashCheck Shell Extension,,2.4.0.55,HashCheck Shell Extension,NOT_FOUND
+HP Connection Optimizer,Hewlett Packard,2.0.20.0,HP Connection Optimizer,NOT_FOUND (Skipped)
+HP Documentation,Hewlett Packard,1.0.0.1,HP Documentation,NOT_FOUND (Skipped)
+HP Insights,Hewlett Packard,5.26.49,HP Insights,NOT_FOUND (Skipped)
+HP Notifications,Hewlett Packard,1.1.31.56,HP Notifications,NOT_FOUND (Skipped)
+HP PC Hardware Diagnostics UEFI,Hewlett Packard,10.6.0.0,HP PC Hardware Diagnostics UEFI,NOT_FOUND (Skipped)
+HP Presence Video,Hewlett Packard,3.242.140.21701,HP Presence Video,NOT_FOUND (Skipped)
+HP Security Update Service,Hewlett Packard,4.4.30.1453,HP Security Update Service,NOT_FOUND (Skipped)
+HP Sure Recover,Hewlett Packard,10.1.30.280,HP Sure Recover,NOT_FOUND (Skipped)
+HP Sure Run Module,Hewlett Packard,5.0.5.105,HP Sure Run Module,NOT_FOUND (Skipped)
+HP System Default Settings,Hewlett Packard,1.5.15.1,HP System Default Settings,NOT_FOUND (Skipped)
+HP Wolf Security - Console,Hewlett Packard,11.1.7.1163,HP Wolf Security,NOT_FOUND (Skipped)
+ICS,Hewlett Packard,3.1.18.25,ICS,NOT_FOUND (Skipped)
+Java 8 Update 471 (64-bit),Oracle,8.0.4710.9,Java 8 Update 471,NOT_FOUND
+Java Auto Updater,Oracle,2.8.471.9,Java Auto Updater,cpe:2.3:a:sun:java_auto_updater:*:*:*:*:*:*:*:*
+Johnson Controls - Launcher 2.0,Johnson Controls,2.0.0.157,Johnson Controls,cpe:2.3:a:johnsoncontrols:pegasys_p2000_server_software:*:*:*:*:*:*:*:*
+Kits Configuration Installer,Microsoft,10.1.19041.685,Kits Configuration Installer,NOT_FOUND
+Lantronix DeviceInstaller 4.4.0.7 (x64),Lantronix,44.00.7500,Lantronix DeviceInstaller,NOT_FOUND
+Logi Download Assistant,Logitech,2.0.529,Logi Download Assistant,NOT_FOUND
+Logi Options+,Logitech,2.3.879545,Logi Options+,cpe:2.3:a:logitech:logi_options\+:*:*:*:*:*:*:*:*
+Logi Plugin Service,Logitech,6.3.0.2406,Logi Plugin Service,NOT_FOUND
+Logitech Presentation,Logitech,2.10.34,Logitech Presentation,cpe:2.3:o:logitech:r700_laser_presentation_remote_firmware:*:*:*:*:*:*:*:*
+Microsoft 365 Apps for enterprise - en-us,Microsoft,16.0.19929.20172,Microsoft 365 Apps enterprise,cpe:2.3:a:microsoft:365_apps:*:*:*:*:*:*:*:*
+Microsoft 365 - en-us,Microsoft,16.0.19929.20172,Microsoft 365,cpe:2.3:a:microsoft:365:*:*:*:*:*:*:*:*
+Microsoft Edge,Microsoft,148.0.3967.70,Microsoft Edge,cpe:2.3:a:microsoft:edge:*:*:*:*:*:*:*:*
+Microsoft Edge WebView2 Runtime,Microsoft,148.0.3967.70,Microsoft Edge WebView2 Runtime,cpe:2.3:a:microsoft:edge_chromium:*:*:*:*:*:*:*:*
+Microsoft Intune Management Extension,Microsoft,1.101.109.0,Microsoft Intune Management Extension,cpe:2.3:a:microsoft:intune_management_extension:*:*:*:*:*:*:*:*
+Microsoft .NET Framework 4 Multi-Targeting Pack,Microsoft,4.0.30319,Microsoft .NET Framework 4 Multi-Targeting Pack,NOT_FOUND
+Microsoft OneDrive,Microsoft,26.074.0420.0001,Microsoft OneDrive,cpe:2.3:a:microsoft:onedrive:*:*:*:*:*:*:*:*
+Microsoft OneNote - en-us,Microsoft,16.0.19929.20172,Microsoft OneNote,cpe:2.3:a:microsoft:onenote:*:*:*:*:*:*:*:*
+Microsoft Teams Meeting Add-in for Microsoft Office,Microsoft,1.26.08901,Microsoft Teams Meeting Add-in Microsoft Office,cpe:2.3:a:microsoft:teams:*:*:*:*:*:*:*:*
+Microsoft Update Health Tools,Microsoft,5.72.0.0,Microsoft Update Health Tools,NOT_FOUND
+Microsoft Visio Viewer 2016,Microsoft,16.0.4339.1001,Microsoft Visio Viewer 2016,NOT_FOUND
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17,Microsoft,9.0.30729,Microsoft Visual C++ 2008 Redistributable,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161,Microsoft,9.0.30729.6161,Microsoft Visual C++ 2008 Redistributable,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219,Microsoft,10.0.40219,Microsoft Visual C++ 2010 Redistributable,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219,Microsoft,10.0.40219,Microsoft Visual C++ 2010 Redistributable,cpe:2.3:a:microsoft:visual_c\+\+:*:*:*:*:*:*:*:*
+Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005,Microsoft,12.0.21005.1,Microsoft Visual C++ 2013 Redistributable,NOT_FOUND
+Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005,Microsoft,12.0.21005,Microsoft Visual C++ 2013 Additional Runtime,NOT_FOUND
+Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005,Microsoft,12.0.21005,Microsoft Visual C++ 2013 Minimum Runtime,NOT_FOUND
+Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.44.35211,Microsoft,14.44.35211.0,Microsoft Visual C++ 2015-2022 Redistributable,NOT_FOUND
+Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35211,Microsoft,14.44.35211.0,Microsoft Visual C++ 2015-2022 Redistributable,NOT_FOUND
+Microsoft Visual C++ 2019 X64 Debug Runtime - 14.29.30157,Microsoft,14.29.30157,Microsoft Visual C++ 2019 Debug Runtime,NOT_FOUND
+Microsoft Visual C++ 2019 X86 Debug Runtime - 14.29.30157,Microsoft,14.29.30157,Microsoft Visual C++ 2019 Debug Runtime,NOT_FOUND
+Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211,Microsoft,14.44.35211,Microsoft Visual C++ 2022 Additional Runtime,NOT_FOUND
+Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211,Microsoft,14.44.35211,Microsoft Visual C++ 2022 Minimum Runtime,NOT_FOUND
+Microsoft Visual C++ 2022 X86 Additional Runtime - 14.44.35211,Microsoft,14.44.35211,Microsoft Visual C++ 2022 Additional Runtime,NOT_FOUND
+Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.44.35211,Microsoft,14.44.35211,Microsoft Visual C++ 2022 Minimum Runtime,NOT_FOUND
+Microsoft Visual Studio Code (User),Microsoft,1.119.1,Microsoft Visual Studio Code,cpe:2.3:a:microsoft:visual_studio_code:*:*:*:*:*:*:*:*
+Microsoft Visual Studio Installer,Microsoft,3.12.2149.20818,Microsoft Visual Studio Installer,NOT_FOUND
+Microsoft Visual Studio Setup Configuration,Microsoft,3.7.2182.35401,Microsoft Visual Studio Setup Configuration,NOT_FOUND
+Microsoft Visual Studio Setup WMI Provider,Microsoft,3.7.2182.35401,Microsoft Visual Studio Setup WMI Provider,NOT_FOUND
+Mozilla Firefox (x64 en-US),Mozilla,150.0.3,Mozilla Firefox,cpe:2.3:a:mozilla:firefox:*:*:*:*:*:*:*:*
+Mozilla Maintenance Service,Mozilla,127.0.2,Mozilla Maintenance Service,NOT_FOUND
+MSI Development Tools,Microsoft,10.1.19041.685,MSI Development Tools,NOT_FOUND
+Nmap 7.95,Nmap Project,7.95,Nmap,cpe:2.3:a:nmap:nmap:*:*:*:*:*:*:*:*
+Node.js,Node.js,22.11.0,Node.js,cpe:2.3:a:joyent:node.js:*:*:*:*:*:*:*:*
+Notepad++ (64-bit x64),Notepad++ Team,8.9.1,Notepad++,cpe:2.3:a:don_ho:notepad\+\+:*:*:*:*:*:*:*:*
+Npcap,Nmap Project,1.79,Npcap,cpe:2.3:a:nmap:npcap:*:*:*:*:*:*:*:*
+Office 16 Click-to-Run Extensibility Component,Microsoft,16.0.19929.20172,Office 16 Click-to-Run Extensibility Component,NOT_FOUND
+OPC Core Components Redistributable (x64) 105.0,OPC,3.00.10501,OPC Core Components Redistributable,NOT_FOUND
+Oracle VirtualBox 7.1.4,Oracle And/Or ITS Affiliates,7.1.4,Oracle VirtualBox,cpe:2.3:a:oracle:virtualbox:*:*:*:*:*:*:*:*
+Poly Lens Control Service,Hewlett Packard,1.11.793,Poly Lens Control Service,NOT_FOUND (Skipped)
+Poly Lens Desktop,Hewlett Packard,2.2.0.3547,Poly Lens Desktop,NOT_FOUND (Skipped)
+Postman x86_64 11.34.5,Postman,11.34.5,Postman,cpe:2.3:a:postman:postman:*:*:*:*:*:*:*:*
+PyCharm 2025.1.1,JetBrains,251.25410.122,PyCharm,cpe:2.3:a:jetbrains:pycharm:*:*:*:*:*:*:*:*
+Python 3.12.6 (64-bit),Python Software,3.12.6150.0,Python,cpe:2.3:a:python:python:*:*:*:*:*:*:*:*
+Python 3.12.6 Add to Path (64-bit),Python Software,3.12.6150.0,Python Add to Path,NOT_FOUND
+Python 3.12.6 Core Interpreter (64-bit),Python Software,3.12.6150.0,Python Core Interpreter,NOT_FOUND
+Python 3.12.6 Development Libraries (64-bit),Python Software,3.12.6150.0,Python Development Libraries,NOT_FOUND
+Python 3.12.6 Documentation (64-bit),Python Software,3.12.6150.0,Python Documentation,cpe:2.3:a:python-gnupg_project:python-gnupg:*:*:*:*:*:*:*:*
+Python 3.12.6 Executables (64-bit),Python Software,3.12.6150.0,Python Executables,NOT_FOUND
+Python 3.12.6 pip Bootstrap (64-bit),Python Software,3.12.6150.0,Python pip Bootstrap,NOT_FOUND
+Python 3.12.6 Standard Library (64-bit),Python Software,3.12.6150.0,Python Standard Library,NOT_FOUND
+Python 3.12.6 Tcl/Tk Support (64-bit),Python Software,3.12.6150.0,Python Tcl/Tk Support,NOT_FOUND
+Python 3.12.6 Test Suite (64-bit),Python Software,3.12.6150.0,Python Test Suite,NOT_FOUND
+Python 3.13.3 (64-bit),Python Software,3.13.3150.0,Python,cpe:2.3:a:python:python:*:*:*:*:*:*:*:*
+Python 3.13.3 Add to Path (64-bit),Python Software,3.13.3150.0,Python Add to Path,NOT_FOUND
+Python 3.13.3 Core Interpreter (64-bit),Python Software,3.13.3150.0,Python Core Interpreter,NOT_FOUND
+Python 3.13.3 Development Libraries (64-bit),Python Software,3.13.3150.0,Python Development Libraries,NOT_FOUND
+Python 3.13.3 Documentation (64-bit),Python Software,3.13.3150.0,Python Documentation,cpe:2.3:a:python-gnupg_project:python-gnupg:*:*:*:*:*:*:*:*
+Python 3.13.3 Executables (64-bit),Python Software,3.13.3150.0,Python Executables,NOT_FOUND
+Python 3.13.3 pip Bootstrap (64-bit),Python Software,3.13.3150.0,Python pip Bootstrap,NOT_FOUND
+Python 3.13.3 Standard Library (64-bit),Python Software,3.13.3150.0,Python Standard Library,NOT_FOUND
+Python 3.13.3 Tcl/Tk Support (64-bit),Python Software,3.13.3150.0,Python Tcl/Tk Support,NOT_FOUND
+Python 3.13.3 Test Suite (64-bit),Python Software,3.13.3150.0,Python Test Suite,NOT_FOUND
+Python Launcher,Python Software,3.13.3150.0,Python Launcher,NOT_FOUND
+SDK ARM Additions,Microsoft,10.1.19041.685,SDK ARM Additions,NOT_FOUND
+SDK ARM Redistributables,Microsoft,10.1.19041.685,SDK ARM Redistributables,NOT_FOUND
+Smart Card Browser Extension,CardID.org,0.4.2,Smart Card Browser Extension,NOT_FOUND
+Tracer TU 11.10,Trane,11.10.264,Tracer TU,NOT_FOUND
+UltraVNC,Uvnc Bvba,1.6.4.0,UltraVNC,cpe:2.3:a:ultravnc:vnc_viewer:*:*:*:*:*:*:*:*
+Universal CRT Extension SDK,Microsoft,10.1.19041.685,Universal CRT Extension SDK,NOT_FOUND
+Universal CRT Headers Libraries and Sources,Microsoft,10.1.19041.685,Universal CRT Headers Libraries and Sources,NOT_FOUND
+Universal CRT Redistributable,Microsoft,10.1.19041.685,Universal CRT Redistributable,NOT_FOUND
+Universal CRT Redistributable,Microsoft,10.0.26624,Universal CRT Redistributable,NOT_FOUND
+Universal CRT Tools x64,Microsoft,10.1.19041.685,Universal CRT Tools,NOT_FOUND
+Universal CRT Tools x86,Microsoft,10.1.19041.685,Universal CRT Tools,NOT_FOUND
+Universal General MIDI DLS Extension SDK,Microsoft,10.1.19041.685,Universal General MIDI DLS Extension SDK,NOT_FOUND
+Update for  (KB2504637),Microsoft,1,Update (KB2504637),NOT_FOUND
+vcpp_crt.redist.clickonce,Microsoft,14.29.30157,vcpp_crt.redist.clickonce,NOT_FOUND
+Visual Studio Build Tools 2019,Microsoft,16.11.42,Visual Studio Build Tools 2019,NOT_FOUND
+VLC media player,VideoLAN,3.0.21,VLC media player,cpe:2.3:a:videolan:vlc_media_player:*:*:*:*:*:*:*:*
+VMware Workstation,VMware,25.0.1,VMware Workstation,cpe:2.3:a:vmware:workstation:*:*:*:*:*:*:*:*
+vs_communitymsi,Microsoft,16.11.34930,vs_communitymsi,NOT_FOUND
+vs_communitymsires,Microsoft,16.10.31213,vs_communitymsires,NOT_FOUND
+vs_filehandler_amd64,Microsoft,16.11.31503,vs_filehandler_amd64,NOT_FOUND
+vs_filehandler_x86,Microsoft,16.11.31503,vs_filehandler_x86,NOT_FOUND
+vs_FileTracker_Singleton,Microsoft,16.11.34827,vs_FileTracker_Singleton,NOT_FOUND
+vs_minshellinteropmsi,Microsoft,16.10.31306,vs_minshellinteropmsi,NOT_FOUND
+vs_minshellmsi,Microsoft,16.11.34902,vs_minshellmsi,NOT_FOUND
+vs_minshellmsires,Microsoft,16.10.31303,vs_minshellmsires,NOT_FOUND
+VS Script Debugging Common,Microsoft,16.0.102.0,VS Script Debugging Common,NOT_FOUND
+Webex,Cisco,44.7.0.30141,Webex,cpe:2.3:a:cisco:webex:*:*:*:*:*:*:*:*
+WinAppDeploy,Microsoft,10.1.19041.685,WinAppDeploy,NOT_FOUND
+Windows App Certification Kit Native Components,Microsoft,10.1.19041.685,Windows App Certification Kit Native Components,NOT_FOUND
+Windows App Certification Kit SupportedApiList x86,Microsoft,10.1.19041.685,Windows App Certification Kit SupportedApiList,NOT_FOUND
+Windows App Certification Kit x64,Microsoft,10.1.19041.685,Windows App Certification Kit,NOT_FOUND
+Windows Desktop Extension SDK,Microsoft,10.1.19041.685,Windows Desktop Extension SDK,NOT_FOUND
+Windows Desktop Extension SDK Contracts,Microsoft,10.1.19041.685,Windows Desktop Extension SDK Contracts,NOT_FOUND
+Windows Driver Package - Silicon Laboratories (silabenm) Ports  (12/10/2012 6.6.1.0),Silicon Laboratories,12/10/2012 6.6.1.0,Windows Driver Package,NOT_FOUND
+Windows Driver Package - STMicroelectronics (usbser) Ports  (04/25/2010 1.3.1),STMicroelectronics,04/25/2010 1.3.1,Windows Driver Package,NOT_FOUND
+Windows IoT Extension SDK,Microsoft,10.1.19041.685,Windows IoT Extension SDK,NOT_FOUND
+Windows IoT Extension SDK Contracts,Microsoft,10.1.19041.685,Windows IoT Extension SDK Contracts,NOT_FOUND
+Windows Mobile Extension SDK,Microsoft,10.1.19041.685,Windows Mobile Extension SDK,NOT_FOUND
+Windows Mobile Extension SDK Contracts,Microsoft,10.1.19041.685,Windows Mobile Extension SDK Contracts,NOT_FOUND
+Windows SDK,Microsoft,10.1.19041.685,Windows SDK,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK AddOn,Microsoft,10.1.0.0,Windows SDK AddOn,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK ARM Desktop Tools,Microsoft,10.1.19041.685,Windows SDK ARM Desktop Tools,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK Desktop Headers arm,Microsoft,10.1.19041.685,Windows SDK Desktop Headers arm,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK Desktop Headers arm64,Microsoft,10.1.19041.685,Windows SDK Desktop Headers,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK Desktop Headers x64,Microsoft,10.1.19041.685,Windows SDK Desktop Headers,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK Desktop Headers x86,Microsoft,10.1.19041.685,Windows SDK Desktop Headers,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK Desktop Libs arm,Microsoft,10.1.19041.685,Windows SDK Desktop Libs arm,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK Desktop Libs arm64,Microsoft,10.1.19041.685,Windows SDK Desktop Libs,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK Desktop Libs x64,Microsoft,10.1.19041.685,Windows SDK Desktop Libs,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK Desktop Libs x86,Microsoft,10.1.19041.685,Windows SDK Desktop Libs,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK Desktop Tools arm64,Microsoft,10.1.19041.685,Windows SDK Desktop Tools,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK Desktop Tools x64,Microsoft,10.1.19041.685,Windows SDK Desktop Tools,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK Desktop Tools x86,Microsoft,10.1.19041.685,Windows SDK Desktop Tools,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK DirectX x64 Remote,Microsoft,10.1.19041.685,Windows SDK DirectX Remote,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK DirectX x86 Remote,Microsoft,10.1.19041.685,Windows SDK DirectX Remote,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK EULA,Microsoft,10.1.19041.685,Windows SDK EULA,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK Facade Windows WinMD Versioned,Microsoft,10.1.19041.685,Windows SDK Facade Windows WinMD Versioned,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps,Microsoft,10.1.19041.685,Windows SDK Windows Store Apps,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Contracts,Microsoft,10.1.19041.685,Windows SDK Windows Store Apps Contracts,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps DirectX x86 Remote,Microsoft,10.1.19041.685,Windows SDK Windows Store Apps DirectX Remote,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Headers,Microsoft,10.1.19041.685,Windows SDK Windows Store Apps Headers,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Libs,Microsoft,10.1.19041.685,Windows SDK Windows Store Apps Libs,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Metadata,Microsoft,10.1.19041.685,Windows SDK Windows Store Apps Metadata,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Apps Tools,Microsoft,10.1.19041.685,Windows SDK Windows Store Apps Tools,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK for Windows Store Managed Apps Libs,Microsoft,10.1.19041.685,Windows SDK Windows Store Managed Apps Libs,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK Modern Non-Versioned Developer Tools,Microsoft,10.1.19041.685,Windows SDK Modern Non-Versioned Developer Tools,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK Modern Versioned Developer Tools,Microsoft,10.1.19041.685,Windows SDK Modern Versioned Developer Tools,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK Redistributables,Microsoft,10.1.19041.685,Windows SDK Redistributables,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows SDK Signing Tools,Microsoft,10.1.19041.685,Windows SDK Signing Tools,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows Software Development Kit - Windows 10.0.19041.685,Microsoft,10.1.19041.685,Windows Software Development Kit,cpe:2.3:a:microsoft:windows_software_development_kit:*:*:*:*:*:*:*:*
+Windows Subsystem for Linux,Microsoft,2.3.26.0,Windows Subsystem Linux,cpe:2.3:a:microsoft:windows_subsystem_for_linux:*:*:*:*:*:*:*:*
+Windows Team Extension SDK,Microsoft,10.1.19041.685,Windows Team Extension SDK,NOT_FOUND
+Windows Team Extension SDK Contracts,Microsoft,10.1.19041.685,Windows Team Extension SDK Contracts,NOT_FOUND
+WinRT Intellisense Desktop - en-us,Microsoft,10.1.19041.685,WinRT Intellisense Desktop,NOT_FOUND
+WinRT Intellisense Desktop - Other Languages,Microsoft,10.1.19041.685,WinRT Intellisense Desktop,NOT_FOUND
+WinRT Intellisense IoT - en-us,Microsoft,10.1.19041.685,WinRT Intellisense IoT,NOT_FOUND
+WinRT Intellisense IoT - Other Languages,Microsoft,10.1.19041.685,WinRT Intellisense IoT,NOT_FOUND
+WinRT Intellisense Mobile - en-us,Microsoft,10.1.19041.685,WinRT Intellisense Mobile,NOT_FOUND
+WinRT Intellisense PPI - en-us,Microsoft,10.1.19041.685,WinRT Intellisense PPI,NOT_FOUND
+WinRT Intellisense PPI - Other Languages,Microsoft,10.1.19041.685,WinRT Intellisense PPI,NOT_FOUND
+WinRT Intellisense UAP - en-us,Microsoft,10.1.19041.685,WinRT Intellisense UAP,NOT_FOUND
+WinRT Intellisense UAP - Other Languages,Microsoft,10.1.19041.685,WinRT Intellisense UAP,NOT_FOUND
+WinSCP 6.5.5,Martin Prikryl,6.5.5,WinSCP,cpe:2.3:a:winscp:winscp:*:*:*:*:*:*:*:*
+Wireshark 4.4.8 x64,Wireshark Developer Community Https://Www.Wireshark.Org,4.4.8,Wireshark,cpe:2.3:a:wireshark:wireshark:*:*:*:*:*:*:*:*
+wkhtmltox 0.12.6-1,,,wkhtmltox -1,NOT_FOUND
+Yabe version 1.3.2,Yabe Authors,1.3.2,Yabe version,NOT_FOUND
+Zoom Workplace,Zoom Communications,6.7.8 (32670),Zoom Workplace,cpe:2.3:a:zoom:workplace:*:*:*:*:*:*:*:*

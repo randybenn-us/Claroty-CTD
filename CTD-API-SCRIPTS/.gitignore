@@ -1,0 +1,19 @@
+# Ignore generated CSV output files
+*.csv
+*.json
+!*cve_program_matcher_cut.csv
+!Assets_Per_CVE/Examples/*
+!CVEs_Per_Asset/Examples/*
+!Full_Asset_List/Examples/*
+!Get_Edge_Progs/Examples/*
+!NVD_Matching/Examples/*
+
+
+.env
+.venv/
+
+#deprecated
+Assets_Per_CVE.py
+CVEs_Per_Asset.py
+Full_Asset_List.py
+Get_Edge_Progs.py

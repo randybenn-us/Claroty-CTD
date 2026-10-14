@@ -1,0 +1,4631 @@
+[
+    {
+        "cve id": "CVE-2010-5305",
+        "asset count": 1,
+        "asset list": {
+            "231": [
+                "UNTITLED"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2012-6435",
+        "asset count": 2,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ],
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2012-6436",
+        "asset count": 2,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ],
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2012-6437",
+        "asset count": 2,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ],
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2012-6438",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2012-6439",
+        "asset count": 2,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ],
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2012-6440",
+        "asset count": 2,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ],
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2012-6441",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2012-6442",
+        "asset count": 2,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ],
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2015-6486",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2015-6488",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2015-6490",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2015-6491",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2015-6492",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2016-0868",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2016-20009",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2016-2279",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2016-9343",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-12088",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-12089",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-12092",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-12093",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-14462",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-14463",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-14464",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-14465",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-14466",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-14467",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-14468",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-14470",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-14471",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-14472",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-14473",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-3881",
+        "asset count": 2,
+        "asset list": {
+            "495": [
+                "C3560X-24.18"
+            ],
+            "500": [
+                "C3560CX-12PD-MBRCl.20"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-6736",
+        "asset count": 3,
+        "asset list": {
+            "491": [
+                "C3560-IOT-table"
+            ],
+            "495": [
+                "C3560X-24.18"
+            ],
+            "500": [
+                "C3560CX-12PD-MBRCl.20"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-6737",
+        "asset count": 2,
+        "asset list": {
+            "500": [
+                "C3560CX-12PD-MBRCl.20"
+            ],
+            "495": [
+                "C3560X-24.18"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-6738",
+        "asset count": 2,
+        "asset list": {
+            "495": [
+                "C3560X-24.18"
+            ],
+            "500": [
+                "C3560CX-12PD-MBRCl.20"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-6743",
+        "asset count": 2,
+        "asset list": {
+            "500": [
+                "C3560CX-12PD-MBRCl.20"
+            ],
+            "495": [
+                "C3560X-24.18"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-6744",
+        "asset count": 2,
+        "asset list": {
+            "495": [
+                "C3560X-24.18"
+            ],
+            "500": [
+                "C3560CX-12PD-MBRCl.20"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-7898",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-7899",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-7901",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-7902",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-7903",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2017-7924",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2018-0171",
+        "asset count": 1,
+        "asset list": {
+            "500": [
+                "C3560CX-12PD-MBRCl.20"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2018-17924",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2019-10955",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2019-12255",
+        "asset count": 2,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ],
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2019-12256",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2019-12257",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2019-12258",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2019-12261",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2019-12262",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2019-12263",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2019-12264",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2019-12265",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2019-1746",
+        "asset count": 1,
+        "asset list": {
+            "491": [
+                "C3560-IOT-table"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2019-5096",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2019-5097",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2020-6083",
+        "asset count": 1,
+        "asset list": {
+            "237": [
+                "10.1.30.4"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2020-6084",
+        "asset count": 1,
+        "asset list": {
+            "237": [
+                "10.1.30.4"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2020-6085",
+        "asset count": 1,
+        "asset list": {
+            "237": [
+                "10.1.30.4"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2020-6086",
+        "asset count": 1,
+        "asset list": {
+            "237": [
+                "10.1.30.4"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2020-6087",
+        "asset count": 1,
+        "asset list": {
+            "237": [
+                "10.1.30.4"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2020-6088",
+        "asset count": 1,
+        "asset list": {
+            "237": [
+                "10.1.30.4"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2020-6980",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2020-6984",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2020-6988",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2020-6990",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2020-6998",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2021-22681",
+        "asset count": 2,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ],
+            "376": [
+                "10.1.30.1:Card 2 \\ Addr 11"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2021-33012",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2022-1161",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2022-1797",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2022-3157",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2023-20132",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2023-20134",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2023-2262",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2023-3595",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2024-21916",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2024-27198",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2024-6242",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2025-20160",
+        "asset count": 3,
+        "asset list": {
+            "503": [
+                "C3560CX-8PC.mbrc2.21"
+            ],
+            "490": [
+                "C9300-48P.core.2"
+            ],
+            "495": [
+                "C3560X-24.18"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2025-20225",
+        "asset count": 4,
+        "asset list": {
+            "503": [
+                "C3560CX-8PC.mbrc2.21"
+            ],
+            "500": [
+                "C3560CX-12PD-MBRCl.20"
+            ],
+            "497": [
+                "C3560-CG-MBR.9"
+            ],
+            "495": [
+                "C3560X-24.18"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2025-20236",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2025-20239",
+        "asset count": 4,
+        "asset list": {
+            "503": [
+                "C3560CX-8PC.mbrc2.21"
+            ],
+            "500": [
+                "C3560CX-12PD-MBRCl.20"
+            ],
+            "490": [
+                "C9300-48P.core.2"
+            ],
+            "495": [
+                "C3560X-24.18"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2025-20253",
+        "asset count": 4,
+        "asset list": {
+            "500": [
+                "C3560CX-12PD-MBRCl.20"
+            ],
+            "497": [
+                "C3560-CG-MBR.9"
+            ],
+            "503": [
+                "C3560CX-8PC.mbrc2.21"
+            ],
+            "495": [
+                "C3560X-24.18"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2025-20311",
+        "asset count": 1,
+        "asset list": {
+            "490": [
+                "C9300-48P.core.2"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2025-20352",
+        "asset count": 9,
+        "asset list": {
+            "503": [
+                "C3560CX-8PC.mbrc2.21"
+            ],
+            "490": [
+                "C9300-48P.core.2"
+            ],
+            "498": [
+                "C3560CX-8XPD-attic.4"
+            ],
+            "495": [
+                "C3560X-24.18"
+            ],
+            "496": [
+                "C3560CX-8-bsmt.17"
+            ],
+            "500": [
+                "C3560CX-12PD-MBRCl.20"
+            ],
+            "493": [
+                "C2960-C-LR"
+            ],
+            "497": [
+                "C3560-CG-MBR.9"
+            ],
+            "491": [
+                "C3560-IOT-table"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2025-20363",
+        "asset count": 1,
+        "asset list": {
+            "491": [
+                "C3560-IOT-table"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2025-30023",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2025-30024",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2025-30025",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2025-7353",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10000",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10001",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10002",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10003",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10005",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10006",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10007",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10009",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10012",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10013",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10015",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10016",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10017",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10019",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10020",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10021",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10022",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10881",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10882",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10883",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10884",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10885",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10886",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10887",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10888",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10889",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10890",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10891",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10892",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10893",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10894",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10895",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10896",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10897",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10898",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10899",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10900",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10901",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10902",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10903",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10904",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10905",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10906",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10907",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10908",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10909",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10910",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10911",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10913",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10914",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10915",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10917",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10918",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10919",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10920",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10921",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10922",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10923",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10924",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10925",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10926",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10927",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10928",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10929",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10930",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10931",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10932",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10933",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10934",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10935",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10936",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10939",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10940",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10941",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10942",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10943",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10945",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10946",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10947",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10948",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10949",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10951",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10952",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10953",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10954",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10955",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10956",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10957",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10958",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10959",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10960",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10961",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10962",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10963",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10964",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10965",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10966",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10967",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10969",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10970",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10971",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10972",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10974",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10975",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10978",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10982",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10983",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10986",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10987",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10988",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10989",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10990",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10991",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-10995",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11000",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11002",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11003",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11009",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11010",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11011",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11012",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11015",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11021",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11024",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11028",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11030",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11037",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11040",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11041",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11042",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11043",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11046",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11047",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11049",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11050",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11052",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11054",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11055",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11056",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11058",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11059",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11060",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11061",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11063",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11065",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11066",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11068",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11070",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11071",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11072",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11074",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11076",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11077",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11079",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11080",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11082",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11085",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11086",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11088",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11091",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11092",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11094",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11095",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11100",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11102",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11103",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11108",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11111",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11112",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11113",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11114",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11116",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11117",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11118",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11119",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11120",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11124",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11125",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11130",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11131",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11136",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11144",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11146",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11147",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11149",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11151",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11152",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11153",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11154",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11158",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11163",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11164",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11165",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11167",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11169",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11170",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11171",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11172",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11173",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11175",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11177",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11179",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11185",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11188",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11191",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11198",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11201",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11202",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11207",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11211",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11213",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11224",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11231",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11235",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11236",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11237",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11239",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11241",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11242",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11248",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11250",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11255",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11256",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11262",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11265",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11272",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11282",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11293",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11295",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11296",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11297",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11301",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11303",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11304",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11305",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11306",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11307",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11629",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11630",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11631",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11632",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11633",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11634",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11635",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11636",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11637",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11638",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11639",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11640",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11641",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11642",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11643",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11644",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11645",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11646",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11647",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11648",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11649",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11650",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11651",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11652",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11654",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11655",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11656",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11657",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11659",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11660",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11661",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11662",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11663",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11664",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11667",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11670",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11671",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11673",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11674",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11677",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11679",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11680",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11683",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11687",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11688",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11690",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11692",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11693",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11694",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11697",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11698",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11699",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-11700",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-33622",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-44815",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-45657",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-47291",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9111",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9112",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9114",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9117",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9118",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9119",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9120",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9121",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9123",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9126",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9872",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9873",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9874",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9875",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9876",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9877",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9878",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9879",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9880",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9881",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9883",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9884",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9885",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9886",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9887",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9888",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9889",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9890",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9891",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9892",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9893",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9894",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9895",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9896",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9897",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9898",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9899",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9900",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9901",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9902",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9904",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9905",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9906",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9909",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9910",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9914",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9915",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9916",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9918",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9922",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9923",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9924",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9925",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9926",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9927",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9928",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9931",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9932",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9933",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9934",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9936",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9937",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9938",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9939",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9940",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9941",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9945",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9946",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9947",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9948",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9949",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9951",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9952",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9954",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9956",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9957",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9958",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9960",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9961",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9962",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9963",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9964",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9965",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9966",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9967",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9968",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9969",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9970",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9972",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9973",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9974",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9975",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9976",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9977",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9978",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9982",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9983",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9984",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9987",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9988",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9990",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9992",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9993",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9994",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9995",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9997",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9998",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "CVE-2026-9999",
+        "asset count": 1,
+        "asset list": {
+            "402": [
+                "DESKTOP-5NATTOG"
+            ]
+        }
+    },
+    {
+        "cve id": "ICSA-15-225-02A",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "RA-511407-2",
+        "asset count": 1,
+        "asset list": {
+            "231": [
+                "UNTITLED"
+            ]
+        }
+    },
+    {
+        "cve id": "RA-58964",
+        "asset count": 1,
+        "asset list": {
+            "30": [
+                "Chemical_plant_xx"
+            ]
+        }
+    },
+    {
+        "cve id": "RA-65980",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "RA-65982",
+        "asset count": 1,
+        "asset list": {
+            "239": [
+                "10.1.30.6"
+            ]
+        }
+    },
+    {
+        "cve id": "RA-66678",
+        "asset count": 1,
+        "asset list": {
+            "231": [
+                "UNTITLED"
+            ]
+        }
+    }
+]

@@ -1,0 +1,1274 @@
+{
+    "asset_id": 402,
+    "asset_name": "DESKTOP-5NATTOG",
+    "edge_id": "678fbc2a38dcd039",
+    "program_count": 211,
+    "programs": [
+        {
+            "program": "7-Zip 25.00 (x64)",
+            "vendor": "Igor Pavlov",
+            "version": "25.00",
+            "in_CTD": "yes"
+        },
+        {
+            "program": "Adobe Acrobat (64-bit)",
+            "vendor": "Adobe",
+            "version": "26.001.21563",
+            "in_CTD": "yes"
+        },
+        {
+            "program": "Adobe Refresh Manager",
+            "vendor": "Adobe",
+            "version": "1.8.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "AMD Software",
+            "vendor": "Advanced Micro Devices",
+            "version": "23.19.23.03",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Application Verifier x64 External Package",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "ARC125 for Uniden (U)BC125XLT",
+            "vendor": "BuTel Software",
+            "version": "0.08.0038",
+            "in_CTD": "no"
+        },
+        {
+            "program": "AXIS Device Manager 5.30",
+            "vendor": "Axis Communications AB",
+            "version": "5.30.125",
+            "in_CTD": "yes"
+        },
+        {
+            "program": "BC75XLT_SS",
+            "vendor": "Uniden",
+            "version": "1.1.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "BCDx36HP Sentinel",
+            "vendor": "Uniden",
+            "version": "2.05.03",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Bonjour Browser",
+            "vendor": "",
+            "version": "",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Brave",
+            "vendor": "Brave Software",
+            "version": "148.1.90.122",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Camera Configuration Tool",
+            "vendor": "Motorola",
+            "version": "2.14.0.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Cisco Packet Tracer 8.2.2 64Bit",
+            "vendor": "Cisco",
+            "version": "8.2.2.400",
+            "in_CTD": "yes"
+        },
+        {
+            "program": "Cisco Webex Meetings",
+            "vendor": "Cisco",
+            "version": "44.7.0",
+            "in_CTD": "yes"
+        },
+        {
+            "program": "Copilot",
+            "vendor": "Microsoft",
+            "version": "148.0.3967.54",
+            "in_CTD": "no"
+        },
+        {
+            "program": "DirectSOFT 6 - Programming",
+            "vendor": "Host Engineering",
+            "version": "6.00.700",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Do-more Designer 2.11",
+            "vendor": "Host Engineering",
+            "version": "2.11.002",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Epson Connect Printer Setup",
+            "vendor": "Seiko Epson",
+            "version": "1.4.11",
+            "in_CTD": "no"
+        },
+        {
+            "program": "EPSON ET-2800 Series Printer Uninstall",
+            "vendor": "Seiko Epson",
+            "version": "",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Epson ET-2800 Series User\u2019s Guide",
+            "vendor": "Epson America",
+            "version": "1.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Epson Event Manager",
+            "vendor": "Seiko Epson",
+            "version": "3.11.82",
+            "in_CTD": "no"
+        },
+        {
+            "program": "EpsonNet Print",
+            "vendor": "Seiko Epson",
+            "version": "3.3.1.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Epson Photo+",
+            "vendor": "Seiko Epson",
+            "version": "4.0.2.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Epson Printer Connection Checker",
+            "vendor": "Seiko Epson",
+            "version": "3.4.3.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Epson Printer Driver Security Support Tool",
+            "vendor": "Seiko Epson",
+            "version": "1.0.1.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Epson Scan 2",
+            "vendor": "Seiko Epson",
+            "version": "",
+            "in_CTD": "no"
+        },
+        {
+            "program": "EPSON Scan OCR Component",
+            "vendor": "Seiko Epson",
+            "version": "3.00.06",
+            "in_CTD": "no"
+        },
+        {
+            "program": "EPSON Scan PDF Extensions",
+            "vendor": "Seiko Epson",
+            "version": "1.03.02.02",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Epson ScanSmart",
+            "vendor": "Seiko Epson",
+            "version": "3.7.17",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Epson Software Updater",
+            "vendor": "Seiko Epson",
+            "version": "5.0.2",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Evernote 10.95.4 (All Users)",
+            "vendor": "Evernote",
+            "version": "10.95.4",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Evernote 11.16.3",
+            "vendor": "Bending Spoons US",
+            "version": "11.16.3",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Factory I/O",
+            "vendor": "Real Games",
+            "version": "2.5.8",
+            "in_CTD": "no"
+        },
+        {
+            "program": "FastStone Image Viewer 8.1",
+            "vendor": "FastStone",
+            "version": "8.1",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Foxit PDF Reader",
+            "vendor": "Foxit Software",
+            "version": "2025.2.0.33046",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Google Chrome",
+            "vendor": "Google",
+            "version": "148.0.7778.168",
+            "in_CTD": "yes"
+        },
+        {
+            "program": "G_Series_PPS_V00-03-16-29F",
+            "vendor": "Unication",
+            "version": "0.3.16.29",
+            "in_CTD": "no"
+        },
+        {
+            "program": "HashCheck Shell Extension",
+            "vendor": "",
+            "version": "2.4.0.55",
+            "in_CTD": "no"
+        },
+        {
+            "program": "HP Connection Optimizer",
+            "vendor": "Hewlett Packard",
+            "version": "2.0.20.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "HP Documentation",
+            "vendor": "Hewlett Packard",
+            "version": "1.0.0.1",
+            "in_CTD": "no"
+        },
+        {
+            "program": "HP Insights",
+            "vendor": "Hewlett Packard",
+            "version": "5.26.49",
+            "in_CTD": "no"
+        },
+        {
+            "program": "HP Notifications",
+            "vendor": "Hewlett Packard",
+            "version": "1.1.31.56",
+            "in_CTD": "no"
+        },
+        {
+            "program": "HP PC Hardware Diagnostics UEFI",
+            "vendor": "Hewlett Packard",
+            "version": "10.6.0.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "HP Presence Video",
+            "vendor": "Hewlett Packard",
+            "version": "3.242.140.21701",
+            "in_CTD": "no"
+        },
+        {
+            "program": "HP Security Update Service",
+            "vendor": "Hewlett Packard",
+            "version": "4.4.30.1453",
+            "in_CTD": "no"
+        },
+        {
+            "program": "HP Sure Recover",
+            "vendor": "Hewlett Packard",
+            "version": "10.1.30.280",
+            "in_CTD": "no"
+        },
+        {
+            "program": "HP Sure Run Module",
+            "vendor": "Hewlett Packard",
+            "version": "5.0.5.105",
+            "in_CTD": "no"
+        },
+        {
+            "program": "HP System Default Settings",
+            "vendor": "Hewlett Packard",
+            "version": "1.5.15.1",
+            "in_CTD": "no"
+        },
+        {
+            "program": "HP Wolf Security - Console",
+            "vendor": "Hewlett Packard",
+            "version": "11.1.7.1163",
+            "in_CTD": "no"
+        },
+        {
+            "program": "ICS",
+            "vendor": "Hewlett Packard",
+            "version": "3.1.18.25",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Java 8 Update 471 (64-bit)",
+            "vendor": "Oracle",
+            "version": "8.0.4710.9",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Java Auto Updater",
+            "vendor": "Oracle",
+            "version": "2.8.471.9",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Johnson Controls - Launcher 2.0",
+            "vendor": "Johnson Controls",
+            "version": "2.0.0.157",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Kits Configuration Installer",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Lantronix DeviceInstaller 4.4.0.7 (x64)",
+            "vendor": "Lantronix",
+            "version": "44.00.7500",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Logi Download Assistant",
+            "vendor": "Logitech",
+            "version": "2.0.529",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Logi Options+",
+            "vendor": "Logitech",
+            "version": "2.3.879545",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Logi Plugin Service",
+            "vendor": "Logitech",
+            "version": "6.3.0.2406",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Logitech Presentation",
+            "vendor": "Logitech",
+            "version": "2.10.34",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft 365 Apps for enterprise - en-us",
+            "vendor": "Microsoft",
+            "version": "16.0.19929.20172",
+            "in_CTD": "yes"
+        },
+        {
+            "program": "Microsoft 365 - en-us",
+            "vendor": "Microsoft",
+            "version": "16.0.19929.20172",
+            "in_CTD": "yes"
+        },
+        {
+            "program": "Microsoft Edge",
+            "vendor": "Microsoft",
+            "version": "148.0.3967.70",
+            "in_CTD": "yes"
+        },
+        {
+            "program": "Microsoft Edge WebView2 Runtime",
+            "vendor": "Microsoft",
+            "version": "148.0.3967.70",
+            "in_CTD": "yes"
+        },
+        {
+            "program": "Microsoft Intune Management Extension",
+            "vendor": "Microsoft",
+            "version": "1.101.109.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft .NET Framework 4 Multi-Targeting Pack",
+            "vendor": "Microsoft",
+            "version": "4.0.30319",
+            "in_CTD": "yes"
+        },
+        {
+            "program": "Microsoft OneDrive",
+            "vendor": "Microsoft",
+            "version": "26.074.0420.0001",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft OneNote - en-us",
+            "vendor": "Microsoft",
+            "version": "16.0.19929.20172",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft Teams Meeting Add-in for Microsoft Office",
+            "vendor": "Microsoft",
+            "version": "1.26.08901",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft Update Health Tools",
+            "vendor": "Microsoft",
+            "version": "5.72.0.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft Visio Viewer 2016",
+            "vendor": "Microsoft",
+            "version": "16.0.4339.1001",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17",
+            "vendor": "Microsoft",
+            "version": "9.0.30729",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161",
+            "vendor": "Microsoft",
+            "version": "9.0.30729.6161",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219",
+            "vendor": "Microsoft",
+            "version": "10.0.40219",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219",
+            "vendor": "Microsoft",
+            "version": "10.0.40219",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft Visual C++ 2013 Redistributable (x86) - 12.0.21005",
+            "vendor": "Microsoft",
+            "version": "12.0.21005.1",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.21005",
+            "vendor": "Microsoft",
+            "version": "12.0.21005",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.21005",
+            "vendor": "Microsoft",
+            "version": "12.0.21005",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft Visual C++ 2015-2022 Redistributable (x64) - 14.44.35211",
+            "vendor": "Microsoft",
+            "version": "14.44.35211.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft Visual C++ 2015-2022 Redistributable (x86) - 14.44.35211",
+            "vendor": "Microsoft",
+            "version": "14.44.35211.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft Visual C++ 2019 X64 Debug Runtime - 14.29.30157",
+            "vendor": "Microsoft",
+            "version": "14.29.30157",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft Visual C++ 2019 X86 Debug Runtime - 14.29.30157",
+            "vendor": "Microsoft",
+            "version": "14.29.30157",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft Visual C++ 2022 X64 Additional Runtime - 14.44.35211",
+            "vendor": "Microsoft",
+            "version": "14.44.35211",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft Visual C++ 2022 X64 Minimum Runtime - 14.44.35211",
+            "vendor": "Microsoft",
+            "version": "14.44.35211",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft Visual C++ 2022 X86 Additional Runtime - 14.44.35211",
+            "vendor": "Microsoft",
+            "version": "14.44.35211",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft Visual C++ 2022 X86 Minimum Runtime - 14.44.35211",
+            "vendor": "Microsoft",
+            "version": "14.44.35211",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft Visual Studio Code (User)",
+            "vendor": "Microsoft",
+            "version": "1.119.1",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft Visual Studio Installer",
+            "vendor": "Microsoft",
+            "version": "3.12.2149.20818",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft Visual Studio Setup Configuration",
+            "vendor": "Microsoft",
+            "version": "3.7.2182.35401",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Microsoft Visual Studio Setup WMI Provider",
+            "vendor": "Microsoft",
+            "version": "3.7.2182.35401",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Mozilla Firefox (x64 en-US)",
+            "vendor": "Mozilla",
+            "version": "150.0.3",
+            "in_CTD": "yes"
+        },
+        {
+            "program": "Mozilla Maintenance Service",
+            "vendor": "Mozilla",
+            "version": "127.0.2",
+            "in_CTD": "no"
+        },
+        {
+            "program": "MSI Development Tools",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Nmap 7.95",
+            "vendor": "Nmap Project",
+            "version": "7.95",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Node.js",
+            "vendor": "Node.js",
+            "version": "22.11.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Notepad++ (64-bit x64)",
+            "vendor": "Notepad++ Team",
+            "version": "8.9.1",
+            "in_CTD": "yes"
+        },
+        {
+            "program": "Npcap",
+            "vendor": "Nmap Project",
+            "version": "1.79",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Office 16 Click-to-Run Extensibility Component",
+            "vendor": "Microsoft",
+            "version": "16.0.19929.20172",
+            "in_CTD": "no"
+        },
+        {
+            "program": "OPC Core Components Redistributable (x64) 105.0",
+            "vendor": "OPC",
+            "version": "3.00.10501",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Oracle VirtualBox 7.1.4",
+            "vendor": "Oracle And/Or ITS Affiliates",
+            "version": "7.1.4",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Poly Lens Control Service",
+            "vendor": "Hewlett Packard",
+            "version": "1.11.793",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Poly Lens Desktop",
+            "vendor": "Hewlett Packard",
+            "version": "2.2.0.3547",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Postman x86_64 11.34.5",
+            "vendor": "Postman",
+            "version": "11.34.5",
+            "in_CTD": "no"
+        },
+        {
+            "program": "PyCharm 2025.1.1",
+            "vendor": "JetBrains",
+            "version": "251.25410.122",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Python 3.12.6 (64-bit)",
+            "vendor": "Python Software",
+            "version": "3.12.6150.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Python 3.12.6 Add to Path (64-bit)",
+            "vendor": "Python Software",
+            "version": "3.12.6150.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Python 3.12.6 Core Interpreter (64-bit)",
+            "vendor": "Python Software",
+            "version": "3.12.6150.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Python 3.12.6 Development Libraries (64-bit)",
+            "vendor": "Python Software",
+            "version": "3.12.6150.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Python 3.12.6 Documentation (64-bit)",
+            "vendor": "Python Software",
+            "version": "3.12.6150.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Python 3.12.6 Executables (64-bit)",
+            "vendor": "Python Software",
+            "version": "3.12.6150.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Python 3.12.6 pip Bootstrap (64-bit)",
+            "vendor": "Python Software",
+            "version": "3.12.6150.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Python 3.12.6 Standard Library (64-bit)",
+            "vendor": "Python Software",
+            "version": "3.12.6150.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Python 3.12.6 Tcl/Tk Support (64-bit)",
+            "vendor": "Python Software",
+            "version": "3.12.6150.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Python 3.12.6 Test Suite (64-bit)",
+            "vendor": "Python Software",
+            "version": "3.12.6150.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Python 3.13.3 (64-bit)",
+            "vendor": "Python Software",
+            "version": "3.13.3150.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Python 3.13.3 Add to Path (64-bit)",
+            "vendor": "Python Software",
+            "version": "3.13.3150.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Python 3.13.3 Core Interpreter (64-bit)",
+            "vendor": "Python Software",
+            "version": "3.13.3150.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Python 3.13.3 Development Libraries (64-bit)",
+            "vendor": "Python Software",
+            "version": "3.13.3150.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Python 3.13.3 Documentation (64-bit)",
+            "vendor": "Python Software",
+            "version": "3.13.3150.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Python 3.13.3 Executables (64-bit)",
+            "vendor": "Python Software",
+            "version": "3.13.3150.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Python 3.13.3 pip Bootstrap (64-bit)",
+            "vendor": "Python Software",
+            "version": "3.13.3150.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Python 3.13.3 Standard Library (64-bit)",
+            "vendor": "Python Software",
+            "version": "3.13.3150.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Python 3.13.3 Tcl/Tk Support (64-bit)",
+            "vendor": "Python Software",
+            "version": "3.13.3150.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Python 3.13.3 Test Suite (64-bit)",
+            "vendor": "Python Software",
+            "version": "3.13.3150.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Python Launcher",
+            "vendor": "Python Software",
+            "version": "3.13.3150.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "SDK ARM Additions",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "SDK ARM Redistributables",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Smart Card Browser Extension",
+            "vendor": "CardID.org",
+            "version": "0.4.2",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Tracer TU 11.10",
+            "vendor": "Trane",
+            "version": "11.10.264",
+            "in_CTD": "no"
+        },
+        {
+            "program": "UltraVNC",
+            "vendor": "Uvnc Bvba",
+            "version": "1.6.4.0",
+            "in_CTD": "yes"
+        },
+        {
+            "program": "Universal CRT Extension SDK",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Universal CRT Headers Libraries and Sources",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Universal CRT Redistributable",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Universal CRT Redistributable",
+            "vendor": "Microsoft",
+            "version": "10.0.26624",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Universal CRT Tools x64",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Universal CRT Tools x86",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Universal General MIDI DLS Extension SDK",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Update for  (KB2504637)",
+            "vendor": "Microsoft",
+            "version": "1",
+            "in_CTD": "no"
+        },
+        {
+            "program": "vcpp_crt.redist.clickonce",
+            "vendor": "Microsoft",
+            "version": "14.29.30157",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Visual Studio Build Tools 2019",
+            "vendor": "Microsoft",
+            "version": "16.11.42",
+            "in_CTD": "no"
+        },
+        {
+            "program": "VLC media player",
+            "vendor": "VideoLAN",
+            "version": "3.0.21",
+            "in_CTD": "no"
+        },
+        {
+            "program": "VMware Workstation",
+            "vendor": "VMware",
+            "version": "25.0.1",
+            "in_CTD": "yes"
+        },
+        {
+            "program": "vs_communitymsi",
+            "vendor": "Microsoft",
+            "version": "16.11.34930",
+            "in_CTD": "no"
+        },
+        {
+            "program": "vs_communitymsires",
+            "vendor": "Microsoft",
+            "version": "16.10.31213",
+            "in_CTD": "no"
+        },
+        {
+            "program": "vs_filehandler_amd64",
+            "vendor": "Microsoft",
+            "version": "16.11.31503",
+            "in_CTD": "no"
+        },
+        {
+            "program": "vs_filehandler_x86",
+            "vendor": "Microsoft",
+            "version": "16.11.31503",
+            "in_CTD": "no"
+        },
+        {
+            "program": "vs_FileTracker_Singleton",
+            "vendor": "Microsoft",
+            "version": "16.11.34827",
+            "in_CTD": "no"
+        },
+        {
+            "program": "vs_minshellinteropmsi",
+            "vendor": "Microsoft",
+            "version": "16.10.31306",
+            "in_CTD": "no"
+        },
+        {
+            "program": "vs_minshellmsi",
+            "vendor": "Microsoft",
+            "version": "16.11.34902",
+            "in_CTD": "no"
+        },
+        {
+            "program": "vs_minshellmsires",
+            "vendor": "Microsoft",
+            "version": "16.10.31303",
+            "in_CTD": "no"
+        },
+        {
+            "program": "VS Script Debugging Common",
+            "vendor": "Microsoft",
+            "version": "16.0.102.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Webex",
+            "vendor": "Cisco",
+            "version": "44.7.0.30141",
+            "in_CTD": "yes"
+        },
+        {
+            "program": "WinAppDeploy",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows App Certification Kit Native Components",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows App Certification Kit SupportedApiList x86",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows App Certification Kit x64",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows Desktop Extension SDK",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows Desktop Extension SDK Contracts",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows Driver Package - Silicon Laboratories (silabenm) Ports  (12/10/2012 6.6.1.0)",
+            "vendor": "Silicon Laboratories",
+            "version": "12/10/2012 6.6.1.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows Driver Package - STMicroelectronics (usbser) Ports  (04/25/2010 1.3.1)",
+            "vendor": "STMicroelectronics",
+            "version": "04/25/2010 1.3.1",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows IoT Extension SDK",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows IoT Extension SDK Contracts",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows Mobile Extension SDK",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows Mobile Extension SDK Contracts",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK AddOn",
+            "vendor": "Microsoft",
+            "version": "10.1.0.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK ARM Desktop Tools",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK Desktop Headers arm",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK Desktop Headers arm64",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK Desktop Headers x64",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK Desktop Headers x86",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK Desktop Libs arm",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK Desktop Libs arm64",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK Desktop Libs x64",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK Desktop Libs x86",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK Desktop Tools arm64",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK Desktop Tools x64",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK Desktop Tools x86",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK DirectX x64 Remote",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK DirectX x86 Remote",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK EULA",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK Facade Windows WinMD Versioned",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK for Windows Store Apps",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK for Windows Store Apps Contracts",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK for Windows Store Apps DirectX x86 Remote",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK for Windows Store Apps Headers",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK for Windows Store Apps Libs",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK for Windows Store Apps Metadata",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK for Windows Store Apps Tools",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK for Windows Store Managed Apps Libs",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK Modern Non-Versioned Developer Tools",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK Modern Versioned Developer Tools",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK Redistributables",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows SDK Signing Tools",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows Software Development Kit - Windows 10.0.19041.685",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows Subsystem for Linux",
+            "vendor": "Microsoft",
+            "version": "2.3.26.0",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows Team Extension SDK",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Windows Team Extension SDK Contracts",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "WinRT Intellisense Desktop - en-us",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "WinRT Intellisense Desktop - Other Languages",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "WinRT Intellisense IoT - en-us",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "WinRT Intellisense IoT - Other Languages",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "WinRT Intellisense Mobile - en-us",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "WinRT Intellisense PPI - en-us",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "WinRT Intellisense PPI - Other Languages",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "WinRT Intellisense UAP - en-us",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "WinRT Intellisense UAP - Other Languages",
+            "vendor": "Microsoft",
+            "version": "10.1.19041.685",
+            "in_CTD": "no"
+        },
+        {
+            "program": "WinSCP 6.5.5",
+            "vendor": "Martin Prikryl",
+            "version": "6.5.5",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Wireshark 4.4.8 x64",
+            "vendor": "Wireshark Developer Community Https://Www.Wireshark.Org",
+            "version": "4.4.8",
+            "in_CTD": "no"
+        },
+        {
+            "program": "wkhtmltox 0.12.6-1",
+            "vendor": "",
+            "version": "",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Yabe version 1.3.2",
+            "vendor": "Yabe Authors",
+            "version": "1.3.2",
+            "in_CTD": "no"
+        },
+        {
+            "program": "Zoom Workplace",
+            "vendor": "Zoom Communications",
+            "version": "6.7.8 (32670)",
+            "in_CTD": "no"
+        }
+    ]
+}
